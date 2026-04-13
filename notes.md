@@ -11,13 +11,13 @@ For each section in this course, I follow a systematic execution plan to ensure 
 ---
 
 ## 📁 Project Structure
-The repository cv-course-labs/ is organized to keep each lab's data and results isolated:
+The repository `cv-course-labs/` is organized to keep each lab's data and results isolated:
 
 - `.venv/`: A single virtual environment used for the entire course to manage dependencies.
-- data/: Contains all input images and raw datasets provided.  
-- notes.md: My personal documentation for short answers, observations, and progress tracking.
-- LabX/: Each lab or assignment has its own dedicated folder (e.g., Lab1/, `Lab2/`).
-  - outputs/: Stores all the results, processed images, and files I create.
+- `data/`: Contains all input images and raw datasets provided.  
+- `notes.md`: My personal documentation for short answers, observations, and progress tracking.
+- `LabX/`: Each lab or assignment has its own dedicated folder (e.g., `Lab1/`, `Lab2/`).
+  - `outputs/`: Stores all the results, processed images, and files I create.
   - `notebook.ipynb`: The main Jupyter Notebook where the code is implemented and executed.
 
 ---
