@@ -2,7 +2,7 @@
 
 This repository contains a series of projects covering fundamental and advanced topics in Computer Vision. Each topic represents a complete practical module implemented and analyzed through experiments and image processing techniques.
 
-This work is part of the **SkillStack Path: Neural Networks and Computer Vision** course provided by :contentReference[oaicite:0]{index=0}. The course focuses on building strong foundations in deep learning, neural networks, and computer vision applications through hands-on projects and practical implementations.
+This work is part of the **SkillStack Path: Neural Networks and Computer Vision** course provided by Gaza Sky Geeks (GSG). The course focuses on building strong foundations in deep learning, neural networks, and computer vision applications through hands-on projects and practical implementations.
 
 ---
 
